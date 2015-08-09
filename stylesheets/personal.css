@@ -1,0 +1,30 @@
+
+.l-left {
+  padding: 5vh 0 0 0;
+  position: absolute;
+  vertical-align: middle;
+  height: 100%;
+  width: 20%;
+  text-align: left;
+}
+
+.l-left p {
+  margin: 1vh 0 0 1vw;
+  font-size: 0.9em;
+}
+
+.l-left img.face {
+  width: 150px;
+  height: 150px;
+  -webkit-border-radius: 150px;
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  margin: auto;
+}
+
+.l-right {
+  position: relative;
+  float: right;
+  width: 75%;
+  margin: 2vh 0 5vh 0;
+  text-align: justify;
+}
