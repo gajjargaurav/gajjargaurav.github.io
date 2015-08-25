@@ -1,2 +1,2 @@
 # gajjargaurav.github.io
-Personal pages
+Personal pages for profile
